@@ -1,51 +1,48 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook - Dieta Perfeita com IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste no desnvolvimento de um E-book sobre receitas e dietas com IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT --> Para criação das receitas e textos em gerais <br>
+Canva --> Para criação do layout do e-book com imagens personalizadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o ChatGPT gerar 25 receitas de dietas perfeitas para quem busca uma reeducação alimentar, melhora na saúde e emagrecimento, e fui adaptando cada receita com a IA.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<p float="left">
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/1.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/2.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/3.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/4.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/5.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/6.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/7.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/8.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/9.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/10.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/11.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/12.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/13.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/14.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/15.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/16.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/17.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/18.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/19.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/20.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/21.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/22.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/23.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/24.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/25.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/26.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/27.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/28.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/29.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/30.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/31.png" width="200" />
+  <img src="https://github.com/tonzinho-martins/lab-natty-or-not/blob/main/32.png" width="200" />
+</p>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
